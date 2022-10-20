@@ -10,9 +10,10 @@ You can use the Face service through a client library SDK or by calling the REST
 
 **The verification** operation answers the question, "Do these two faces belong to the same person?". Verification is also a "one-to-one" matching of a face in an image to a single face from a secure repository or photo to verify that they're the same individual. Verification can be used for Identity Verification, such as a banking app that enables users to open a credit account remotely by taking a new picture of themselves and sending it with a picture of their photo ID.
 
-Python notebook is available:
+## Python notebook is available:
 <a href="Azure Face API Recognition.ipynb">Python notebook<a>
-
+  
+## Some examples:
 <img src='animatedgif.gif'>
 
 20-Oct-2022
